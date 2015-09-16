@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 中本起經
+#+DATE: 2015-08-30 19:35:28.574480
+#+PROPERTY: JUAN 0
